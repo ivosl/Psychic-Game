@@ -1,0 +1,13 @@
+body {
+    background-image: url(../images/stars.png);
+    background-position: center right;
+    background-repeat: repeat;
+    color: white;
+}
+h1 {
+    color:red;
+}
+h3 {
+    color: #4aaaa5
+}
+
